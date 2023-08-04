@@ -1,2 +1,0 @@
-# djangoAPI
-API shablon

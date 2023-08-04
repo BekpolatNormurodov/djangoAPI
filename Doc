@@ -1,0 +1,8 @@
+# mkdir project
+# cd project
+# pipenv install django
+# pipenv shell
+# django-admin startproject config .
+# mkdir api
+# pip install djangorestframework
+# python manage.py runserver
