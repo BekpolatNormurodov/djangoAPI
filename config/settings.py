@@ -6,6 +6,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    # import
+    # api
     'rest_framework',
 ]
