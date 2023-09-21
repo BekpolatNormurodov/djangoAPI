@@ -6,3 +6,5 @@
 # mkdir api
 # pip install djangorestframework
 # python manage.py runserver
+
+# ssh bekpolat@34.107.23.204   // google server url
